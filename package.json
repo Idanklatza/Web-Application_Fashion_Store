@@ -1,0 +1,1 @@
+{"scripts":{"start":"cd model && npm i && cd ../controller && npm i && npm start"},"dependencies":{"nodemon":"^3.0.2"}}
